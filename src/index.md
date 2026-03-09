@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: download-button
       text: Download
-      link: /markdown-examples
+      link: https://github.com/LostEngine/LostEngine/releases
     - theme: docs-button
       text: Docs
       link: /introduction/introduction
