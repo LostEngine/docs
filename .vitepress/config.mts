@@ -6,12 +6,15 @@ export default defineConfig({
 
     title: "LostEngine",
     description: "Paper Plugin",
+    head: [['link', { rel: 'icon', href: '/logo.png' }]],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Docs', link: '/introduction/introduction'}
         ],
+
+        logo: "/logo.png",
 
         sidebar: [
             {
