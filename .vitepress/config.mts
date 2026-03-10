@@ -27,7 +27,8 @@ export default defineConfig({
             {
                 text: 'General',
                 items: [
-                    {text: 'Performance', link: 'general/performance'},
+                    {text: 'Performance', link: '/general/performance'},
+                    {text: 'Open Source', link: '/general/open-source'},
                     {text: 'Web Server', link: '/general/web-server'},
                     {text: 'Web Editor', link: '/general/web-editor'},
                     {text: 'Custom Materials Injection', link: 'general/custom-materials-injection'}
