@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # LostEngine Web Editor
 
 ## Introduction

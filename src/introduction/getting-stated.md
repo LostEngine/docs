@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Getting Started
 
  - In order to install LostEngine, you first need to download a JAR on [LostEngine's GitHub releases](https://github.com/LostEngine/LostEngine/releases)

@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # LostEngine Integrated Web Server
 
 ## Introduction

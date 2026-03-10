@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Custom Material Injection
 
 ## Introduction

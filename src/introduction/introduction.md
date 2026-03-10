@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Introduction
 ## What is LostEngine?
 
