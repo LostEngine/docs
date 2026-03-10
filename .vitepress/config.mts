@@ -23,6 +23,13 @@ export default defineConfig({
                     {text: 'Introduction', link: '/introduction/introduction'},
                     {text: 'Getting Started', link: '/introduction/getting-stated'},
                 ]
+            },
+            {
+                text: 'General',
+                items: [
+                    {text: 'Web Server', link: '/general/web-server'},
+                    {text: 'Web Editor', link: '/general/web-editor'},
+                ]
             }
         ],
 
