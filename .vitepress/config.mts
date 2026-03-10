@@ -29,6 +29,7 @@ export default defineConfig({
                 items: [
                     {text: 'Web Server', link: '/general/web-server'},
                     {text: 'Web Editor', link: '/general/web-editor'},
+                    {text: 'Custom Materials Injection', link: 'general/custom-materials-injection'}
                 ]
             }
         ],
